@@ -1,0 +1,14 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://localhost:27017/Online-Exam-Portal"
+    },
+    "jwt": {
+        "secret" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiI2NTc2NTEzYzZiYWM1OTQxOWNlZmJlZDAiLCJ1c2VybmFtZSI6ImFAZ21haWwuY29tIiwicGFzc3dvcmQiOiIxMjMiLCJpYXQiOjE1MTYyMzkwMjJ9.sMSP0I6PwC99ufCu8JlRfjTR1wyT9uQAzBkkOwyU6ds"
+    },
+    "mail-credentials" : {
+        "userid" :"6576513c6bac59419cefbed0",
+         "username": "admin@admin.com",
+         "password" : "admin",
+        "iat": 1516239022
+      }
+}

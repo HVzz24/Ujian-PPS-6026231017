@@ -1,0 +1,8 @@
+{
+  "mongodb": {
+      "connectionString": "mongodb://localhost:27017/onlineExamPortalTestDB"
+  },
+  "jwt": {
+      "secret" : "Wryj9pBcrwMPLGuUkKVh4JeFsuMsp1xViO-_Q_1yG3Q"
+  }
+}
